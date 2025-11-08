@@ -1,0 +1,379 @@
+﻿2025-10-30 00:00:21.698 420608:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-10-30 00:00:21.759+0700 420608 419392 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-10-30 00:00:21.759+0700 420608 419392 BRIDGE Helper_bridge I: Loading configuration ...
+2025-10-30 00:00:21.761+0700 420608 419392 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-10-30 00:00:21.761+0700 420608 419392 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-10-30 00:00:21.760 420608:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-10-30 00:00:21.855 420608:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-10-30 00:00:21.894 420608:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-10-30 00:00:21.901 420608:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-10-30 00:00:21.901 420608:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-10-30 00:00:22.677 420608:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-10-30 00:00:22.782 420608:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-10-30 00:00:22.782 420608:00000001 (BlueStacksHelper) INFO: Exiting
+2025-10-30 23:58:13.543 432656:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-10-30 23:58:13.616+0700 432656 413540 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-10-30 23:58:13.616+0700 432656 413540 BRIDGE Helper_bridge I: Loading configuration ...
+2025-10-30 23:58:13.618+0700 432656 413540 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-10-30 23:58:13.618+0700 432656 413540 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-10-30 23:58:13.618 432656:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-10-30 23:58:13.739 432656:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-10-30 23:58:13.772 432656:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-10-30 23:58:13.781 432656:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-10-30 23:58:13.781 432656:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-10-30 23:58:14.913 432656:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-10-30 23:58:15.306 432656:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-10-30 23:58:15.306 432656:00000001 (BlueStacksHelper) INFO: Exiting
+2025-10-31 00:00:22.351 430736:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-10-31 00:00:22.407+0700 430736 425480 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-10-31 00:00:22.408+0700 430736 425480 BRIDGE Helper_bridge I: Loading configuration ...
+2025-10-31 00:00:22.410+0700 430736 425480 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-10-31 00:00:22.410+0700 430736 425480 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-10-31 00:00:22.410 430736:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-10-31 00:00:22.498 430736:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-10-31 00:00:22.532 430736:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-10-31 00:00:22.538 430736:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-10-31 00:00:22.539 430736:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-10-31 00:00:23.331 430736:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-10-31 00:00:23.425 430736:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-10-31 00:00:23.425 430736:00000001 (BlueStacksHelper) INFO: Exiting
+2025-10-31 06:00:21.786 459520:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-10-31 06:00:21.817+0700 459520 463600 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-10-31 06:00:21.817+0700 459520 463600 BRIDGE Helper_bridge I: Loading configuration ...
+2025-10-31 06:00:21.819+0700 459520 463600 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-10-31 06:00:21.819+0700 459520 463600 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-10-31 06:00:21.818 459520:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-10-31 06:00:21.898 459520:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-10-31 06:00:21.930 459520:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-10-31 06:00:21.934 459520:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-10-31 06:00:21.935 459520:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-10-31 06:00:22.677 459520:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-10-31 06:00:22.727 459520:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-10-31 06:00:22.728 459520:00000001 (BlueStacksHelper) INFO: Exiting
+2025-10-31 12:02:07.888 485784:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-10-31 12:02:08.022+0700 485784 436188 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-10-31 12:02:08.023+0700 485784 436188 BRIDGE Helper_bridge I: Loading configuration ...
+2025-10-31 12:02:08.038+0700 485784 436188 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-10-31 12:02:08.039+0700 485784 436188 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-10-31 12:02:08.038 485784:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-10-31 12:02:08.269 485784:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-10-31 12:02:08.346 485784:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-10-31 12:02:08.355 485784:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-10-31 12:02:08.356 485784:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-10-31 12:02:09.594 485784:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-10-31 12:02:09.758 485784:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-10-31 12:02:09.758 485784:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-01 04:05:18.428 511180:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-01 04:05:18.650+0700 511180 417840 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-01 04:05:18.650+0700 511180 417840 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-01 04:05:18.653+0700 511180 417840 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-01 04:05:18.653+0700 511180 417840 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-01 04:05:18.653 511180:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-01 04:05:18.828 511180:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-01 04:05:18.887 511180:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-01 04:05:18.916 511180:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-01 04:05:18.917 511180:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-01 04:05:20.256 511180:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-01 04:05:20.320 511180:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-01 04:05:20.320 511180:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-01 06:00:21.811 517056:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-01 06:00:21.847+0700 517056 517136 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-01 06:00:21.848+0700 517056 517136 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-01 06:00:21.851+0700 517056 517136 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-01 06:00:21.851+0700 517056 517136 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-01 06:00:21.850 517056:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-01 06:00:21.965 517056:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-01 06:00:21.987 517056:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-01 06:00:21.991 517056:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-01 06:00:21.992 517056:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-01 06:00:22.750 517056:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-01 06:00:22.831 517056:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-01 06:00:22.831 517056:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-01 13:03:42.126 494124:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-01 13:03:42.173+0700 494124 553732 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-01 13:03:42.174+0700 494124 553732 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-01 13:03:42.176+0700 494124 553732 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-01 13:03:42.176+0700 494124 553732 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-01 13:03:42.176 494124:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-01 13:03:42.551 494124:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-01 13:03:42.589 494124:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-01 13:03:42.595 494124:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-01 13:03:42.595 494124:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-01 13:03:43.369 494124:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-01 13:03:43.420 494124:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-01 13:03:43.420 494124:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-02 00:25:34.092 432180:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-02 00:25:34.124+0700 432180 574088 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-02 00:25:34.124+0700 432180 574088 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-02 00:25:34.128+0700 432180 574088 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-02 00:25:34.128+0700 432180 574088 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-02 00:25:34.128 432180:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-02 00:25:34.265 432180:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-02 00:25:34.306 432180:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-02 00:25:34.315 432180:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-02 00:25:34.316 432180:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-02 00:25:35.147 432180:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-02 00:25:35.214 432180:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-02 00:25:35.214 432180:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-02 10:58:42.949 586392:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-02 10:58:43.014+0700 586392 588252 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-02 10:58:43.014+0700 586392 588252 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-02 10:58:43.017+0700 586392 588252 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-02 10:58:43.017+0700 586392 588252 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-02 10:58:43.016 586392:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-02 10:58:43.157 586392:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-02 10:58:43.203 586392:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-02 10:58:43.211 586392:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-02 10:58:43.212 586392:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-02 10:58:44.189 586392:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-02 10:58:44.241 586392:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-02 10:58:44.241 586392:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-02 16:58:29.045 582796:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-02 16:58:29.077+0700 582796 590892 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-02 16:58:29.078+0700 582796 590892 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-02 16:58:29.079+0700 582796 590892 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-02 16:58:29.079+0700 582796 590892 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-02 16:58:29.079 582796:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-02 16:58:29.166 582796:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-02 16:58:29.216 582796:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-02 16:58:29.224 582796:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-02 16:58:29.225 582796:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-02 16:58:30.004 582796:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-02 16:58:30.114 582796:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-02 16:58:30.115 582796:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-02 18:00:21.741 599336:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-02 18:00:21.775+0700 599336 600032 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-02 18:00:21.775+0700 599336 600032 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-02 18:00:21.778+0700 599336 600032 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-02 18:00:21.778+0700 599336 600032 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-02 18:00:21.777 599336:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-02 18:00:21.874 599336:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-02 18:00:21.895 599336:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-02 18:00:21.900 599336:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-02 18:00:21.901 599336:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-02 18:00:22.668 599336:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-02 18:00:22.747 599336:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-02 18:00:22.747 599336:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-03 00:00:21.726 602068:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-03 00:00:21.758+0700 602068 606620 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-03 00:00:21.758+0700 602068 606620 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-03 00:00:21.760+0700 602068 606620 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-03 00:00:21.760+0700 602068 606620 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-03 00:00:21.760 602068:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-03 00:00:21.839 602068:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-03 00:00:21.867 602068:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-03 00:00:21.872 602068:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-03 00:00:21.872 602068:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-03 00:00:22.627 602068:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-03 00:00:22.676 602068:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-03 00:00:22.677 602068:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-03 09:06:20.995 601380:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-03 09:06:21.026+0700 601380 624112 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-03 09:06:21.026+0700 601380 624112 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-03 09:06:21.028+0700 601380 624112 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-03 09:06:21.028+0700 601380 624112 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-03 09:06:21.028 601380:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-03 09:06:21.109 601380:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-03 09:06:21.145 601380:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-03 09:06:21.156 601380:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-03 09:06:21.157 601380:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-03 09:06:21.996 601380:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-03 09:06:22.075 601380:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-03 09:06:22.075 601380:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-03 17:37:22.186 601748:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-03 17:37:22.282+0700 601748 627956 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-03 17:37:22.283+0700 601748 627956 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-03 17:37:22.286+0700 601748 627956 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-03 17:37:22.286+0700 601748 627956 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-03 17:37:22.285 601748:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-03 17:37:22.460 601748:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-03 17:37:22.590 601748:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-03 17:37:22.599 601748:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-03 17:37:22.601 601748:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-03 17:37:23.396 601748:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-03 17:37:23.458 601748:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-03 17:37:23.458 601748:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-03 18:00:21.813 589940:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-03 18:00:21.853+0700 589940 609004 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-03 18:00:21.854+0700 589940 609004 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-03 18:00:21.856+0700 589940 609004 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-03 18:00:21.856+0700 589940 609004 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-03 18:00:21.855 589940:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-03 18:00:21.943 589940:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-03 18:00:21.973 589940:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-03 18:00:21.978 589940:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-03 18:00:21.979 589940:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-03 18:00:22.727 589940:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-03 18:00:22.795 589940:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-03 18:00:22.795 589940:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-04 00:13:51.941 625892:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-04 00:13:51.975+0700 625892 628848 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-04 00:13:51.975+0700 625892 628848 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-04 00:13:51.978+0700 625892 628848 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-04 00:13:51.978+0700 625892 628848 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-04 00:13:51.978 625892:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-04 00:13:52.075 625892:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-04 00:13:52.118 625892:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-04 00:13:52.127 625892:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-04 00:13:52.128 625892:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-04 00:13:52.920 625892:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-04 00:13:53.016 625892:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-04 00:13:53.016 625892:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-04 09:52:32.151 637640:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-04 09:52:32.257+0700 637640 636804 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-04 09:52:32.258+0700 637640 636804 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-04 09:52:32.261+0700 637640 636804 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-04 09:52:32.261+0700 637640 636804 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-04 09:52:32.260 637640:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-04 09:52:33.051 637640:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-04 09:52:33.164 637640:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-04 09:52:33.177 637640:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-04 09:52:33.177 637640:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-04 09:52:33.988 637640:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-04 09:52:34.267 637640:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-04 09:52:34.267 637640:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-04 18:44:42.995 632840:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-04 18:44:43.029+0700 632840 641748 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-04 18:44:43.029+0700 632840 641748 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-04 18:44:43.031+0700 632840 641748 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-04 18:44:43.031+0700 632840 641748 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-04 18:44:43.031 632840:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-04 18:44:43.195 632840:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-04 18:44:43.353 632840:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-04 18:44:43.359 632840:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-04 18:44:43.361 632840:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-04 18:44:44.319 632840:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-04 18:44:44.410 632840:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-04 18:44:44.410 632840:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-05 14:01:33.005 647316:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-05 14:01:33.057+0700 647316 642852 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-05 14:01:33.057+0700 647316 642852 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-05 14:01:33.062+0700 647316 642852 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-05 14:01:33.062+0700 647316 642852 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-05 14:01:33.061 647316:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-05 14:01:33.199 647316:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-05 14:01:33.234 647316:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-05 14:01:33.240 647316:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-05 14:01:33.240 647316:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-05 14:01:34.116 647316:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-05 14:01:34.402 647316:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-05 14:01:34.402 647316:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-05 18:17:53.552 599756:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-05 18:17:53.668+0700 599756 631128 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-05 18:17:53.669+0700 599756 631128 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-05 18:17:53.672+0700 599756 631128 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-05 18:17:53.672+0700 599756 631128 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-05 18:17:53.672 599756:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-05 18:17:53.954 599756:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-05 18:17:54.238 599756:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-05 18:17:54.244 599756:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-05 18:17:54.246 599756:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-05 18:17:56.074 599756:00000001 (BlueStacksHelper) ERROR: Unable to write data to the transport connection: An established connection was aborted by the software in your host machine.
+2025-11-05 18:17:56.082 599756:00000001 (BlueStacksHelper) ERROR: Couldn't query cloud, ex: The remote name could not be resolved: 'delegate.bluestacks.com'
+2025-11-05 18:17:56.083 599756:00000001 (BlueStacksHelper) INFO: Cloud response: 
+2025-11-05 18:17:56.083 599756:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-05 18:17:56.084 599756:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-06 00:00:21.928 642848:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-06 00:00:21.994+0700 642848 641180 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-06 00:00:21.994+0700 642848 641180 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-06 00:00:21.997+0700 642848 641180 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-06 00:00:21.997+0700 642848 641180 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-06 00:00:21.996 642848:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-06 00:00:22.103 642848:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-06 00:00:22.133 642848:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-06 00:00:22.139 642848:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-06 00:00:22.140 642848:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-06 00:00:23.001 642848:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-06 00:00:23.076 642848:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-06 00:00:23.076 642848:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-06 07:32:13.222 667412:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-06 07:32:13.335+0700 667412 667496 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-06 07:32:13.335+0700 667412 667496 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-06 07:32:13.338+0700 667412 667496 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-06 07:32:13.338+0700 667412 667496 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-06 07:32:13.337 667412:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-06 07:32:13.674 667412:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-06 07:32:13.753 667412:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-06 07:32:13.758 667412:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-06 07:32:13.759 667412:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-06 07:32:14.484 667412:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-06 07:32:14.579 667412:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-06 07:32:14.579 667412:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-06 18:34:48.012 675988:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-06 18:34:48.055+0700 675988 685672 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-06 18:34:48.055+0700 675988 685672 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-06 18:34:48.059+0700 675988 685672 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-06 18:34:48.059+0700 675988 685672 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-06 18:34:48.058 675988:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-06 18:34:48.262 675988:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-06 18:34:48.356 675988:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-06 18:34:48.369 675988:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-06 18:34:48.369 675988:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-06 18:34:49.145 675988:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-06 18:34:49.270 675988:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-06 18:34:49.270 675988:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-07 01:08:41.120 694284:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-07 01:08:41.171+0700 694284 694664 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-07 01:08:41.172+0700 694284 694664 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-07 01:08:41.174+0700 694284 694664 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-07 01:08:41.174+0700 694284 694664 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-07 01:08:41.174 694284:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-07 01:08:41.286 694284:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-07 01:08:41.327 694284:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-07 01:08:41.335 694284:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-07 01:08:41.336 694284:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-07 01:08:42.176 694284:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-07 01:08:42.262 694284:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-07 01:08:42.262 694284:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-07 23:49:45.592 699712:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-07 23:49:45.833+0700 699712 699716 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-07 23:49:45.833+0700 699712 699716 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-07 23:49:45.850+0700 699712 699716 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-07 23:49:45.850+0700 699712 699716 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-07 23:49:45.850 699712:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-07 23:49:46.929 699712:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-07 23:49:47.149 699712:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-07 23:49:47.171 699712:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-07 23:49:47.173 699712:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-07 23:49:48.349 699712:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-07 23:49:48.484 699712:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-07 23:49:48.484 699712:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-08 00:00:21.792 688468:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-08 00:00:21.822+0700 688468 699252 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-08 00:00:21.822+0700 688468 699252 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-08 00:00:21.824+0700 688468 699252 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-08 00:00:21.824+0700 688468 699252 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-08 00:00:21.824 688468:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-08 00:00:21.895 688468:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-08 00:00:21.926 688468:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-08 00:00:21.932 688468:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-08 00:00:21.932 688468:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-08 00:00:22.692 688468:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-08 00:00:22.761 688468:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-08 00:00:22.761 688468:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-08 06:00:21.948 737216:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-08 06:00:21.996+0700 737216 726940 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-08 06:00:21.996+0700 737216 726940 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-08 06:00:21.998+0700 737216 726940 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-08 06:00:21.998+0700 737216 726940 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-08 06:00:21.998 737216:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-08 06:00:22.093 737216:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-08 06:00:22.125 737216:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-08 06:00:22.128 737216:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-08 06:00:22.129 737216:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-08 06:00:22.868 737216:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-08 06:00:22.954 737216:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-08 06:00:22.954 737216:00000001 (BlueStacksHelper) INFO: Exiting
+2025-11-08 13:25:39.601 774604:00000001 (BlueStacksHelper) INFO: IsAdministrator: False
+2025-11-08 13:25:39.683+0700 774604 770092 BRIDGE Helper_bridge I: bridgeApiInitEx:#################### In bridgeApiInit Helper ###############
+2025-11-08 13:25:39.683+0700 774604 770092 BRIDGE Helper_bridge I: Loading configuration ...
+2025-11-08 13:25:39.686+0700 774604 770092 CONF   Helper_bridge E: open failed for D:\BlueStacks_nxt\bluestacks.conf
+2025-11-08 13:25:39.686+0700 774604 770092 BRIDGE Helper_bridge E: Error in confLibInit init
+2025-11-08 13:25:39.685 774604:00000001 (BlueStacksHelper) INFO: BridgeApi inited: -1
+2025-11-08 13:25:39.861 774604:00000001 (BlueStacksHelper) INFO: Sending POST to https://cloud.bluestacks.com//api/scheduledping
+2025-11-08 13:25:39.977 774604:00000001 (BlueStacksHelper) INFO: Getting machine id from backup: 2b517429-2a63-4c6e-ad99-c9c8cab33ea5, IsNewMachineIdCreated value: 0
+2025-11-08 13:25:40.014 774604:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:2b517429-2a63-4c6e-ad99-c9c8cab33ea5
+2025-11-08 13:25:40.015 774604:00000001 (BlueStacksHelper) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.75.1026:24ba250c-a22f-4210-9bac-a454e232d7b2
+2025-11-08 13:25:40.990 774604:00000001 (BlueStacksHelper) INFO: Cloud response: {"success":false}
+2025-11-08 13:25:41.102 774604:00000001 (BlueStacksHelper) WARNING: Not a valid/false cloud response, exiting
+2025-11-08 13:25:41.102 774604:00000001 (BlueStacksHelper) INFO: Exiting
