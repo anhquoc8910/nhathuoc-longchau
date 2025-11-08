@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhà Thuốc Long Châu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nhà Thuốc Long Châu</h1>
+        <nav>
+            <a href="#">Trang Chủ</a>
+            <a href="#">Sản Phẩm</a>
+            <a href="#">Giỏ Hàng</a>
+            <a href="#">Liên Hệ</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Chào mừng đến với nhà thuốc trực tuyến</h2>
+            <p>Mua thuốc online nhanh chóng, tiện lợi và an toàn</p>
+        </section>
+
+        <section class="products">
+            <h2>Sản phẩm nổi bật</h2>
+            <div class="product-list">
+                <div class="product">
+                    <h3>Thuốc đau đầu</h3>
+                    <p>Giá: 50.000đ</p>
+                    <button onclick="addToCart('Thuốc đau đầu', 50000)">Thêm vào giỏ</button>
+                </div>
+                <div class="product">
+                    <h3>Vitamin C</h3>
+                    <p>Giá: 120.000đ</p>
+                    <button onclick="addToCart('Vitamin C', 120000)">Thêm vào giỏ</button>
+                </div>
+                <div class="product">
+                    <h3>Thuốc cảm cúm</h3>
+                    <p>Giá: 80.000đ</p>
+                    <button onclick="addToCart('Thuốc cảm cúm', 80000)">Thêm vào giỏ</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="cart">
+            <h2>Giỏ hàng</h2>
+            <ul id="cart-items"></ul>
+            <p id="total-price">Tổng tiền: 0đ</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Nhà Thuốc Long Châu</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
